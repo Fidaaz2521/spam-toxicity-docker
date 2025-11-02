@@ -8,3 +8,8 @@ logs/
 venv/
 .idea/
 .pytest_cache/
+
+
+spam_detection_model.pkl
+toxicity_model_artifacts.pkl
+toxicity_model_final/
