@@ -8,10 +8,3 @@ logs/
 venv/
 .idea/
 .pytest_cache/
-# Model files - too large for GitHub
-spam_detection_model.pkl
-toxicity_model_artifacts.pkl
-toxicity_model_final/
-*.pkl
-*.bin
-*.safetensors
