@@ -7,8 +7,8 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 app = FastAPI(
     title="Spam & Toxicity Detection API",
-    version="2.0.0",
-    docs_url="/docs"
+    version="2.0.0"
+    
 )
 
 app.add_middleware(
