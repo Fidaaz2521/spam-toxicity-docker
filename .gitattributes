@@ -1,0 +1,2 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+toxicity_model_final/** filter=lfs diff=lfs merge=lfs -text
